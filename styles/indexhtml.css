@@ -1,0 +1,47 @@
+.main_header{
+	text-align: center;
+}
+
+.sub_header{
+	text-align: center;
+}
+
+.pig_content{
+	margin-left: 15%;
+	margin-right: 15%;
+	height: 550px;
+}
+
+.sub_pig_content{
+	float: right;
+}
+
+.cattle_content{
+	margin-left: 15%;
+	margin-right: 15%;
+	height: 550px;
+}
+
+.sub_cattle_content{
+	float: right;
+}
+
+.chicken_content{
+       margin-left: 15%;
+       margin-right: 15%;
+       height: 440px;
+}
+
+.sub_chicken_content{
+    float: right;	
+}
+
+.rabbit_content{
+	margin-left: 15%;
+	margin-right: 15%;
+	height: 450px;
+}
+
+.sub_rabbits_content{
+	float: right;
+}
